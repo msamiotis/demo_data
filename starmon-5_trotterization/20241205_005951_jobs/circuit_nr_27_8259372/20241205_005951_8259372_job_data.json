@@ -1,0 +1,34 @@
+{
+   "Data timestamp": "20241205_005951",
+   "Circuit number": "27",
+   "Job ID": "8259372",
+   "Original circuit": {
+      "name": "circuit-2143",
+      "num_qubits": 2,
+      "num_clbits": 2,
+      "params": [],
+      "depth": 5
+   },
+   "Transpiled circuit": {
+      "name": "circuit-2143",
+      "num_qubits": 5,
+      "num_clbits": 2,
+      "params": [],
+      "depth": 12
+   },
+   "Measurement counts": {
+      "00": 772,
+      "01": 417,
+      "10": 14768,
+      "11": 427
+   },
+   "Metadata": {
+      "time_taken": 4.980736
+   },
+   "RO corrected counts": {
+      "11": 248,
+      "00": 400,
+      "01": 443,
+      "10": 15291
+   }
+}

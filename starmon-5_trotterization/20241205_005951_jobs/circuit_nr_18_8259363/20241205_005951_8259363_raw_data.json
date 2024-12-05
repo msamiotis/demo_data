@@ -1,0 +1,28 @@
+{
+   "Data timestamp": "20241205_005951",
+   "Circuit number": "18",
+   "Job ID": "8259363",
+   "Original circuit": {
+      "name": "circuit-1846",
+      "num_qubits": 2,
+      "num_clbits": 2,
+      "params": [],
+      "depth": 5
+   },
+   "Transpiled circuit": {
+      "name": "circuit-1846",
+      "num_qubits": 5,
+      "num_clbits": 2,
+      "params": [],
+      "depth": 12
+   },
+   "Measurement counts": {
+      "00": 558,
+      "01": 11850,
+      "10": 3253,
+      "11": 723
+   },
+   "Metadata": {
+      "time_taken": 4.980736
+   }
+}
